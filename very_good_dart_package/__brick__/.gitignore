@@ -6,5 +6,5 @@
 build/
 pubspec.lock
 
-# Coverage
+# Test related
 coverage/
